@@ -1,2 +1,4 @@
-# Flask_introduction
-I developed this project as an introduction for Flask for Data Science Projects
+# Flask Intoduction Project
+
+This is a introduction project on how to create a simple flask project.
+
